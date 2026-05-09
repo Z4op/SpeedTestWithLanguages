@@ -10,6 +10,7 @@
 
 ## code adjusted by deepseek - up to 09/05/2026
 ### input promt below :
+```
 #!/bin/bash
 
 Count_with_output_msg(){
@@ -36,4 +37,4 @@ Count_without_output_msg(){
 }
 
 Count_with_output_msg()//mi fixi questo codice bash
-
+```
